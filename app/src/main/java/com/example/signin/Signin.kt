@@ -201,6 +201,7 @@ fun SignUp(){
                 Text(text = "New to Robo Guru? ")
                 Text(text = "SIGN IN", modifier = Modifier, color = Color.Blue)
             }
+            Text(text = "hello jacky")
 
         }
     }
